@@ -1,0 +1,6 @@
+Oauth2client Package Notes:
+Since Oauth2Client is depriciated, here are some alternatives
+GoogleAuth      ||        https://google-auth.readthedocs.io/en/latest/
+Oauthlib        ||        https://oauthlib.readthedocs.io/en/v3.0.1/
+
+
